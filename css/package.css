@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 90px;
+    background-color: #03164c;
+}
+.logo{
+    width: 190px;
+    float: left;
+    text-align: center;
+    height: auto;
+    padding: 25px;
+    margin:0px 0px 0px 70px;
+}
+.navbar{
+    width: 100%;
+    position: absolute;
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: space-between;
+    padding: 50px;
+    margin: -20px 0px 0px 40px ;
+    
+    
+    
+}
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.container7{
+    width: 100%;
+    height: 700px;
+}
+.middle2 h1{
+    text-align: center;
+    margin: 200px 0px 0px 0px;
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+    margin-top:100px ;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-thickness: 2px;
+    text-underline-position: 85px ;
+}
+.middle2 p{
+    text-align: center;
+    font-size: 20px;
+    width: 900px;
+    margin: 0px 0px 0px 300px;
+    line-height: 1.4;
+}
+.begplan{
+    width: 25%;
+    background-color: rgb(70, 149, 228);
+    height: 400px;
+    border-radius: 20px;
+    margin: 50px 0px 0px 150px;
+    position: relative;
+    line-height: 1.4;
+}
+.beg h1{
+ 
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    margin: 50px 0px 0px 100px;
+}
+.beg h2{
+    position: absolute;
+    font-size: 40px ;
+    color: white;
+    margin:80px 0px 0px 150px ;
+    font-weight: bold;
+}
+.beg h3{
+    position: absolute;
+    font-size: 20px;
+    width: 230px;
+    color: white;
+    font-weight: lighter;
+    margin: 140px 0px 0px 90px;
+    line-height: 1.9;
+}
+.beg h4{
+    position: absolute;
+    font-size: 20px ;
+    color: purple;
+    font-weight: lighter;
+    margin: 300px 0px 0px 90px;
+}
+.st{
+    margin: 450px 0px 0px 90px ;
+    padding: 15px 30px;
+    background-color: #03164c;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.begplan2{
+    width: 25%;
+    background-color: #03164c;
+    height: 400px;
+    border-radius: 20px;
+    margin: -400px 0px 0px 580px;
+    position: relative;
+    line-height: 1.4;
+}
+.beg2 h1{
+ 
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    margin: 50px 0px 0px 100px;
+}
+.beg2 h2{
+    position: absolute;
+    font-size: 40px ;
+    color: white;
+    margin:80px 0px 0px 150px ;
+    font-weight: bold;
+}
+.beg2 h3{
+    position: absolute;
+    font-size: 20px;
+    width: 230px;
+    color: white;
+    font-weight: lighter;
+    margin: 140px 0px 0px 90px;
+    line-height: 1.9;
+}
+.beg2 h4{
+    position: absolute;
+    font-size: 20px ;
+    color: purple;
+    font-weight: lighter;
+    margin: 300px 0px 0px 90px;
+}
+.nd{
+    margin: 450px 0px 0px 90px ;
+    padding: 15px 30px;
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.begplan3{
+    width: 25%;
+    background-color: rgb(70, 149, 228);
+    height: 400px;
+    border-radius: 20px;
+    margin: -400px 0px 0px 1000px;
+    position: relative;
+    line-height: 1.4;
+}
+.beg3 h1{
+ 
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    margin: 50px 0px 0px 100px;
+}
+.beg3 h2{
+    position: absolute;
+    font-size: 40px ;
+    color: white;
+    margin:80px 0px 0px 150px ;
+    font-weight: bold;
+}
+.beg3 h3{
+    position: absolute;
+    font-size: 20px;
+    width: 230px;
+    color: white;
+    font-weight: lighter;
+    margin: 140px 0px 0px 90px;
+    line-height: 1.9;
+}
+.beg3 h4{
+    position: absolute;
+    font-size: 20px ;
+    color: purple;
+    font-weight: lighter;
+    margin: 300px 0px 0px 90px;
+}
+.rd{
+    margin: 450px 0px 0px 90px ;
+    padding: 15px 30px;
+    background-color: #03164c;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container10{
+    width: 100%;
+    height: 300px;
+    background-color: #03164c;
+    margin: 70px 0px 0px 0px ;
+}
+
+.map{
+    width: 70px;
+    margin: 50px 0px 0px 200px;
+}
+.phone{
+    width: 70px;
+    margin: 50px 0px 0px 370px;
+}
+.email1{
+    width: 70px;
+    margin: -30px 0px 0px 350px;
+}
+.address h1{
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    margin: -65px 0px 0px 300px;
+    font-family:
+    'Times New Roman', Times, serif;
+}
+.address h2{
+    width: 300px;
+    font-size: 20px ;
+    color: white;
+    margin: -30px 0px 0px 750px;
+}
+.address h3{
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    margin: -20px 0px 0px 1170px;
+}
+.address h4{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin: 150px 0px 0px 0px;
+}

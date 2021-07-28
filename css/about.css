@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 90px;
+    background-color: #03164c;
+}
+.logo{
+    width: 190px;
+    float: left;
+    text-align: center;
+    height: auto;
+    padding: 25px;
+    margin:0px 0px 0px 70px;
+}
+.navbar{
+    width: 100%;
+    position: absolute;
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: space-between;
+    padding: 50px;
+    margin: -20px 0px 0px 40px ;
+    
+    
+    
+}
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.container3{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    line-height: 2;
+    position: relative;
+    
+}
+.heading h1{
+    font-size: 50px;
+    position: absolute;
+    text-decoration: underline;
+    text-decoration-color:#03164c ;
+    text-decoration-thickness:2px ;
+    line-height: 2;
+    margin: 50px 0px 0px 600px ;
+}
+.heading h3{
+    position: absolute;
+    margin: 180px 0px 0px 450px ;
+}
+.container4{
+    width: 50%;
+    height: 670px;
+    background-color: black;
+    position: relative;
+    margin: 120px 0px 0px 0px;
+}
+.column h1{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    margin: 130px 0px 0px 150px;
+}
+.column p{
+    color: white;
+    position: absolute;
+    width: 550px;
+    font-size: 20px;
+    line-height: 1.2;
+    margin:220px 0px 0px 150px ;
+}
+.bt1{
+    color: white;
+    position: absolute;
+    padding: 20px 50px;
+    background-color: orangered;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    margin: 550px 0px 0px 150px;
+}
+.sideimg{
+    width: 760px;
+    margin: 0px 0px 0px 380px;
+}
+.container10{
+    width: 100%;
+    height: 300px;
+    background-color: #03164c;
+    margin: 0px 0px 0px 0px ;
+}
+
+.map{
+    width: 70px;
+    margin: 50px 0px 0px 200px;
+}
+.phone{
+    width: 70px;
+    margin: 50px 0px 0px 370px;
+}
+.email1{
+    width: 70px;
+    margin: -30px 0px 0px 350px;
+}
+.address h1{
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    margin: -65px 0px 0px 300px;
+    font-family:
+    'Times New Roman', Times, serif;
+}
+.address h2{
+    width: 300px;
+    font-size: 20px ;
+    color: white;
+    margin: -30px 0px 0px 750px;
+}
+.address h3{
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    margin: -20px 0px 0px 1170px;
+}
+.address h4{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin: 150px 0px 0px 0px;
+}
